@@ -102,7 +102,7 @@ public class Abhishek {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhishkevk2821&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=abhishkevk2821&theme=tokyonight&hide_border=true" />
 
 </div>
 
